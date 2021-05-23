@@ -1,13 +1,13 @@
-# growtopiaforums-dark
+# LinkedIn Dark Theme
 
 [![Build Status](https://img.shields.io/badge/build-passing-green)](https://github.com/AykutSarac/growtopiaforums-dark)
 
-A Google Chrome Dark Theme extension made for Growtopia Forums.
+A Google Chrome Dark Theme extension for LinkedIn with Discord theme.
 
 
 | For Chrome | 
 | ---------- |
-| [![For Chrome](https://camo.githubusercontent.com/346cf4e2b2deac9947a76b6b0fbdb8d36b72058f/68747470733a2f2f692e696d6775722e636f6d2f305a773447714b2e706e67)](https://chrome.google.com/webstore/detail/growtopia-forums-dark-the/bljgmbplgaocgalfnnljfnoacknpikec?utm_source=chrome-ntp-icon) |
+| [![For Chrome](https://camo.githubusercontent.com/346cf4e2b2deac9947a76b6b0fbdb8d36b72058f/68747470733a2f2f692e696d6775722e636f6d2f305a773447714b2e706e67)](https://chrome.google.com/webstore/detail/linkedin-dark-theme/mgolojlgggdmlhjhmniimibampepipnn?utm_source=chrome-ntp-icon) |
 
 # Details
 
