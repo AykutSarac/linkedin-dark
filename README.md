@@ -1,6 +1,6 @@
 # LinkedIn Dark Theme
 
-[![Build Status](https://img.shields.io/badge/build-passing-green)](https://github.com/AykutSarac/linkedin-dark)
+> CAUTION: No longer on the Chrome Webstore due to LinkedIn Copyright infringement.
 
 A Google Chrome Dark Theme extension for LinkedIn with Discord theme.
 
